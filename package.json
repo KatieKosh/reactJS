@@ -1,0 +1,27 @@
+{
+  "name": "reactnyt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.0.0",
+    "body-parser": "^1.17.2",
+    "core-js": "^2.4.1",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.5",
+    "morgan": "^1.8.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+
+    "webpack-dev-server": "^2.4.5"
+  },
+  "devDependencies": {
+    "webpack": "^2.6.1"
+  },
+  "description": ""
+}
